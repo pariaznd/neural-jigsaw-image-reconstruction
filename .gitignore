@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Datasets and generated files
+data/
+datasets/
+stl10_binary/
+logs/
+checkpoints/
+
+# Model weights
+*.h5
+*.weights.h5
+*.keras
